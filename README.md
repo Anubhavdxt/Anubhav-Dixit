@@ -30,7 +30,7 @@ It would be great to connect. Feel free to reach out : [**LinkedIn**](https://ww
 
 ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavdxt&layout=compact&theme=tokyonight)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=tokyonight)
 
 <!--
 
