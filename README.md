@@ -34,7 +34,7 @@ _HTML5_, _CSS3_, _Vanilla JavaScript_, _jQuery_, _C_, _C++_, _Python3_
 [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/anubhavdxt/profile)  
 [**hackerEarth**](http://www.hackerearth.com/@anubhavdxt)
 
-## Contact Me ☎️
+## Connect With Me ☎️
 
 It would be great to connect. Feel free to reach out : [**LinkedIn**](https://www.linkedin.com/in/anubhavdxt/) | [**Twitter**](https://twitter.com/Anubhavdxtdev) | [**Gmail**](anubhavdxt46@gmail.com)
 
