@@ -1,36 +1,55 @@
-# Hello! I'm **Anubhav Dixit** 👋
+# Hello! I'm **Anubhav** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-![badge](https://komarev.com/ghpvc/?username=Anubhavdxt)
+I'm **Anubhav Dixit** currently, I'm pursuing _BTech_ _Mechanical Engineering_ from _National Institute of Technology Meghalaya_.  
+I am a programming enthusiast and practicing full-stack development using _MongoDB, ExpressJS, ReactJS & NodeJS_.  
+I am open to new ideas and projects to collaborate, feel free to connect with me here:
 
-## About Me 👨‍💻
+[![Linkedin Badge](https://img.shields.io/badge/-anubhavdxt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://www.linkedin.com/in/anubhavdxt/)
+[![Twitter Badge](https://img.shields.io/badge/-anubhavdxt-white?style=flat-square&logo=Twitter&logoColor=1DA1F2&link=https://www.linkedin.com/in/anubhavdxt/)](https://twitter.com/Anubhavdxtdev/)
+[![Instagram Badge](https://img.shields.io/badge/-anubhavdxtdev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavdxtdev/)](https://instagram.com/anubhavdxtdev)
+[![Gmail Badge](https://img.shields.io/badge/-anubhavdxt46@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavdxt46@gmail.com)](mailto:anubhavdxt46@gmail.com)
+![Visitor's Count Badge](https://komarev.com/ghpvc/?username=Anubhavdxt)
 
-I am a _3rd_ year _Mechanical Engineering UG_ student at _National Institute of Technology Meghalaya_.  
-I am a programming enthusiast and practicing full-stack development using _MongoDB, ExpressJS, ReactJS & NodeJS_.
+<!-- [![Hashnode Badge](https://img.shields.io/badge/-@anubhavdxt-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://anubhavdxt.hashnode.dev/)](https://anubhavdxt.hashnode.dev/) -->
 
-## I’m currently doing 🌱
+[![Anubhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=anubhavdxt&theme=xcode)](https://git.io/anubhavdxt)
 
-- Learning _Data Structures_ & _Algorithms_
-- Practicing _C/C++_ programming on _HackerRank_ & _GeeksForGeeks_
-- Using _JavaScript_ for front-end development
-- Working with NodeJs, ExpressJs, ReactJs & MongoDB
+## Language
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![SCSS](https://img.shields.io/badge/-SCSS-e3dcdb?style=flat-square&logo=sass)
+
+## Libraries/Framework & Tools
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## Coding Profiles 💻
 
-[**HackerRank**](https://www.hackerrank.com/Anubhavdxt) |
-[**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/anubhavdxt/profile) |
-[**hackerEarth**](http://www.hackerearth.com/@anubhavdxt)
-
-## Connect with Me ☎️
-
-It would be great to connect. Feel free to reach out : [**LinkedIn**](https://www.linkedin.com/in/anubhavdxt/) | [**Twitter**](https://twitter.com/Anubhavdxtdev) | [**Gmail**](anubhavdxt46@gmail.com)
+[![HackerRank Badge](https://img.shields.io/badge/-Anubhavdxt-1aaa47?style=flat-square&logo=hackerRank&logoColor=white&link=https://www.hackerrank.com/Anubhavdxt)](https://hackerrank.com/Anubhavdxt)
+[![Leetcode Badge](https://img.shields.io/badge/-Anubhavdxt-e5ae50?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Anubhavdxt/)](https://leetcode.com/Anubhavdxt/)
+[![GeeksForGeeks Badge](https://img.shields.io/badge/-anubhavdxt-3ca26b?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/anubhavdxt/)](https://auth.geeksforgeeks.org/user/anubhavdxt/)
+[![HackerEarth Badge](https://img.shields.io/badge/-anubhavdxt-223f8f?style=flat-square&logo=hackerearth&logoColor=white&link=https://www.hackerearth.com/@anubhavdxt)](https://www.hackerearth.com/@anubhavdxt)
 
 ## Statistics 📊
 
 <br>
 
-![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavdxt&layout=compact&theme=tokyonight)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=tokyonight)
+<p style="display:inline">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavdxt&layout=compact&theme=tokyonight" alt="Github Stats" width="300px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=tokyonight" alt="Github Stats" width="360px" />
+</p>
 
 <!--
 
@@ -48,3 +67,5 @@ Projects:
 
 Statistics
  -->
+
+<!-- ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white) -->
