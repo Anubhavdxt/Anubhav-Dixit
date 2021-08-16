@@ -1,6 +1,6 @@
 # Hello! I'm **Anubhav** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I'm **Anubhav Dixit** currently, I'm pursuing _BTech_ _Mechanical Engineering_ from _National Institute of Technology Meghalaya_.  
+I'm **Anubhav Dixit**, currently I'm pursuing _BTech_ in _Mechanical Engineering_ from _National Institute of Technology Meghalaya_.  
 I am a programming enthusiast and practicing full-stack development using _MongoDB, ExpressJS, ReactJS & NodeJS_.  
 I am open to new ideas and projects to collaborate, feel free to connect with me here:
 
