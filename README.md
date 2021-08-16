@@ -8,7 +8,7 @@ I am open to new ideas and projects to collaborate, feel free to connect with me
 [![Twitter Badge](https://img.shields.io/badge/-anubhavdxt-white?style=flat-square&logo=Twitter&logoColor=1DA1F2&link=https://www.linkedin.com/in/anubhavdxt/)](https://twitter.com/Anubhavdxtdev/)
 [![Instagram Badge](https://img.shields.io/badge/-anubhavdxtdev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavdxtdev/)](https://instagram.com/anubhavdxtdev)
 [![Gmail Badge](https://img.shields.io/badge/-anubhavdxt46@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavdxt46@gmail.com)](mailto:anubhavdxt46@gmail.com)
-![Visitor's Count Badge](https://komarev.com/ghpvc/?username=Anubhavdxt)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)
 
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-@anubhavdxt-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://anubhavdxt.hashnode.dev/)](https://anubhavdxt.hashnode.dev/) -->
 
