@@ -1,6 +1,6 @@
 # Hello! I'm **Anubhav** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I'm **Anubhav Dixit** currently, I'm pursuing _BTech_ _Mechanical Engineering_ from _National Institute of Technology Meghalaya_.  
+I'm **Anubhav Dixit**, currently I'm pursuing _BTech_ in _Mechanical Engineering_ from _National Institute of Technology Meghalaya_.  
 I am a programming enthusiast and practicing full-stack development using _MongoDB, ExpressJS, ReactJS & NodeJS_.  
 I am open to new ideas and projects to collaborate, feel free to connect with me here:
 
@@ -8,7 +8,7 @@ I am open to new ideas and projects to collaborate, feel free to connect with me
 [![Twitter Badge](https://img.shields.io/badge/-anubhavdxt-00AADD?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://twitter.com/Anubhavdxtdev/)
 [![Instagram Badge](https://img.shields.io/badge/-anubhavdxtdev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavdxtdev/)](https://instagram.com/anubhavdxtdev)
 [![Gmail Badge](https://img.shields.io/badge/-anubhavdxt46@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavdxt46@gmail.com)](mailto:anubhavdxt46@gmail.com)
-![Visitor's Count Badge](https://komarev.com/ghpvc/?username=Anubhavdxt)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)
 
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-@anubhavdxt-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://anubhavdxt.hashnode.dev/)](https://anubhavdxt.hashnode.dev/) -->
 
