@@ -13,6 +13,9 @@ I am open to new ideas and projects to collaborate, feel free to connect with me
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-@anubhavdxt-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://anubhavdxt.hashnode.dev/)](https://anubhavdxt.hashnode.dev/) -->
 
 [![Anubhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=anubhavdxt&theme=xcode)](https://git.io/anubhavdxt)
+<!--<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+-->
 
 ## Language
 
