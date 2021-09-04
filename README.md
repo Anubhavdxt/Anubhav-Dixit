@@ -14,8 +14,7 @@ I am open to new ideas and projects to collaborate, feel free to connect with me
 
 [![Anubhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=anubhavdxt&theme=xcode)](https://git.io/anubhavdxt)
 
-<!-- <img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/> -->
-<img src="https://github.com/Anubhavdxt/Anubhavdxt/blob/main/images/stat.svg" alt="Anubhav WakaTime Activity"/>
+![Anubhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anubhavdxt&layout=compact&theme=tokyonight)
 
 ## Language
 
