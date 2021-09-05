@@ -48,8 +48,6 @@
 
 ## Statistics 📊
 
-<br>
-
 <p style="display:inline">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavdxt&layout=compact&theme=tokyonight" alt="Github Stats" width="375px" />
 <img src="https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=tokyonight" alt="Github Stats" width="450px" />
