@@ -6,30 +6,30 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anubhavdxt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://www.linkedin.com/in/anubhavdxt/)
 [![Twitter Badge](https://img.shields.io/badge/-anubhavdxt-00AADD?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://twitter.com/Anubhavdxtdev/)
-[![Instagram Badge](https://img.shields.io/badge/-anubhavdxtdev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavdxtdev/)](https://instagram.com/anubhavdxtdev)
+[![Instagram Badge](https://img.shields.io/badge/-anubhavdxtdev-563D7C?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavdxtdev/)](https://instagram.com/anubhavdxtdev)
 [![Gmail Badge](https://img.shields.io/badge/-anubhavdxt46@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavdxt46@gmail.com)](mailto:anubhavdxt46@gmail.com)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-111?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![SCSS](https://img.shields.io/badge/-SCSS-111?style=flat-square&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat-square&logo=javascript&logoColor=E34F26)
+![HTML5](https://img.shields.io/badge/-HTML5-222?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-222?style=flat-square&logo=css3&logoColor=E34F26)
+![Java](https://img.shields.io/badge/-java-222?style=flat-square&logo=java&logoColor=E34F26)
+![Python](https://img.shields.io/badge/-Python-222?style=flat-square&logo=Python&logoColor=E34F26)
+![C++](https://img.shields.io/badge/-C++-222?style=flat-square&logo=c&logoColor=E34F26)
+![SCSS](https://img.shields.io/badge/-SCSS-222?style=flat-square&logo=sass&logoColor=E34F26)
 
 ## Libraries/Framework & Tools
 
-![React](https://img.shields.io/badge/-React-111?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-111?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-%234ea94b?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Git](https://img.shields.io/badge/-Git-111?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-222?style=flat-square&logo=git)
 
 ## Coding Profiles
 
