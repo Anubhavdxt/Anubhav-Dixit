@@ -1,8 +1,10 @@
-# Hello! I'm **Anubhav** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hello 👋, I'm Anubhav
 
-I'm **Anubhav Dixit**, currently I'm pursuing _BTech_ in _Mechanical Engineering_ from _National Institute of Technology Meghalaya_.  
-I am a programming enthusiast and practicing full-stack development using _MongoDB, ExpressJS, ReactJS & NodeJS_.  
-I am open to new ideas and projects to collaborate, feel free to connect with me here:
+## A passionate programmer & web-developer from India
+
+### Connect with me here
+
+<!-- <p align="left"> <a href="https://twitter.com/anubhavdxtdev" target="blank"><img src="https://img.shields.io/twitter/follow/anubhavdxtdev?logo=twitter&style=for-the-badge" alt="anubhavdxtdev" /></a></p> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-anubhavdxt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://www.linkedin.com/in/anubhavdxt/)
 [![Twitter Badge](https://img.shields.io/badge/-anubhavdxt-00AADD?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://twitter.com/Anubhavdxtdev/)
@@ -48,9 +50,10 @@ I am open to new ideas and projects to collaborate, feel free to connect with me
 
 <br>
 
-<p style="display:inline">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavdxt&layout=compact&theme=tokyonight" alt="Github Stats" width="300px" />
-<img src="https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=tokyonight" alt="Github Stats" width="360px" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavdxt&layout=compact&theme=tokyonight" alt="Github Stats" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=tokyonight" alt="Github Stats" width="100%" />
 </p>
 
 <!--
