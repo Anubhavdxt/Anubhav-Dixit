@@ -1,3 +1,7 @@
+<head>
+ <title>Anubhav | Web Developer</title>
+</head>
+
 # Hello 👋, I'm Anubhav
 
 ## A passionate programmer & web-developer from India
