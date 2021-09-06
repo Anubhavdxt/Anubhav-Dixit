@@ -20,15 +20,18 @@ C | C++ | Java | JavaScript | Python | HTML5 | CSS3 | Markdown
 
 <h2 style="color:violet">
 SASS | Bootstrap | React | NPM | NodeJS | Express | Pug
+</h2>
 
+<h2 style="color:violet">
 MongoDB | MySQL | GitHub | DigitalOcean | Netlify
-
 </h2>
 
 ## **Tools**
 
 <h2 style="color:violet">
-Git | Postman | Figma | Google Chrome  
+Git | Postman | Figma | Google Chrome
+</h2>
+<h2 style="color:violet">
 Windows | Linux | Ubuntu | Visual Studio Code | IntelliJ Idea
 </h2>
 
