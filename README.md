@@ -1,4 +1,4 @@
-# Hello 👋, I'm Anubhav
+# Hi 👋, I'm Anubhav Dixit
 
 ## _A passionate programmer & web-developer from India_
 
