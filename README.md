@@ -10,20 +10,27 @@
 [![Gmail Badge](https://img.shields.io/badge/-anubhavdxt46@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavdxt46@gmail.com)](mailto:anubhavdxt46@gmail.com)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)
 
-## Languages
+## **Languages**
 
-- **C** | **C++** | **Java** | **JavaScript** | **Python** | **HTML5** | **CSS3** | **Markdown**
+<h2 style="color:violet">
+C | C++ | Java | JavaScript | Python | HTML5 | CSS3 | Markdown
+</h2>
 
-## Libraries & Framework
+## **Libraries & Framework**
 
-- **SASS** | **Bootstrap** | **React** | **NPM** | **NodeJS** | **Express** | **Pug**
+<h2 style="color:violet">
+SASS | Bootstrap | React | NPM | NodeJS | Express | Pug
 
-- **MongoDB** | **MySQL** | **GitHub** | **DigitalOcean** | **Netlify**
+MongoDB | MySQL | GitHub | DigitalOcean | Netlify
 
-## Tools
+</h2>
 
-- **Git** | **Postman** | **Figma** | **Google Chrome**
-- **Windows** | **Linux** | **Ubuntu** | **Visual Studio Code** | **IntelliJ Idea**
+## **Tools**
+
+<h2 style="color:violet">
+Git | Postman | Figma | Google Chrome  
+Windows | Linux | Ubuntu | Visual Studio Code | IntelliJ Idea
+</h2>
 
 ## Coding Profiles
 
