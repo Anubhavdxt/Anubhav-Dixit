@@ -12,26 +12,26 @@
 
 ## **Languages**
 
-<h2 style="color:violet">
+<h2 style="color:#00AADD">
 C | C++ | Java | JavaScript | Python | HTML5 | CSS3 | Markdown
 </h2>
 
 ## **Libraries & Framework**
 
-<h2 style="color:violet">
+<h2 style="color:#00AADD">
 SASS | Bootstrap | React | NPM | NodeJS | Express | Pug
 </h2>
 
-<h2 style="color:violet">
+<h2 style="color:#00AADD">
 MongoDB | MySQL | GitHub | DigitalOcean | Netlify
 </h2>
 
 ## **Tools**
 
-<h2 style="color:violet">
+<h2 style="color:#00AADD">
 Git | Postman | Figma | Google Chrome
 </h2>
-<h2 style="color:violet">
+<h2 style="color:#00AADD">
 Windows | Linux | Ubuntu | Visual Studio Code | IntelliJ Idea
 </h2>
 
