@@ -19,7 +19,7 @@ C | C++ | Java | JavaScript | Python | HTML5 | CSS3 | Markdown
 ## **Libraries & Framework**
 
 <h2 style="color:#00AADD">
-SASS | Bootstrap | React | NPM | NodeJS | Express | Pug
+SCSS | Bootstrap | React | NPM | NodeJS | Express | Pug
 </h2>
 
 <h2 style="color:#00AADD">
