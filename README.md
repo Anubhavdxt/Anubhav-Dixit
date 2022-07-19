@@ -12,7 +12,7 @@
 
 ### **Languages**
 
-C | C++ | Java | JavaScript | Python | HTML5 | CSS3 | Markdown
+JavaScript | Solidity | C | C++ | Java | Python | HTML5 | CSS3 | Markdown
 
 ### **Libraries & Framework**
 
