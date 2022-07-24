@@ -4,6 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/4c2256db-e11a-4880-8830-da986e4c73e6.svg)](https://wakatime.com/@4c2256db-e11a-4880-8830-da986e4c73e6)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)
+[![anubhavDxtDev](https://img.shields.io/twitter/follow/anubhavDxtDev?label=followers&logo=twitter&color=%23007ec6&)](https://twitter.com.anubhavDxtDev)
 
 ### Connect with me here
 
