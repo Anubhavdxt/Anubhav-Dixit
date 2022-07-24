@@ -1,14 +1,17 @@
-# Hi 👋, I'm Anubhav Dixit
+# Hola 👋, I'm Anubhav
 
-## A passionate programmer & web-developer from India
+## Front-end, Web3  & Blockchain Developer from India
+
+[![wakatime](https://wakatime.com/badge/user/4c2256db-e11a-4880-8830-da986e4c73e6.svg)](https://wakatime.com/@4c2256db-e11a-4880-8830-da986e4c73e6)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)
 
 ### Connect with me here
 
 [![Linkedin Badge](https://img.shields.io/badge/-anubhavdxt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://www.linkedin.com/in/anubhavdxt/)
 [![Twitter Badge](https://img.shields.io/badge/-anubhavdxt-00AADD?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://twitter.com/Anubhavdxtdev/)
+[![Hashnode Badge](https://img.shields.io/badge/-@anubhavdxt-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://anubhavdxt.hashnode.dev/)](https://anubhavdxt.hashnode.dev/)
 [![Instagram Badge](https://img.shields.io/badge/-anubhavdxtdev-563D7C?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavdxtdev/)](https://instagram.com/anubhavdxtdev)
 [![Gmail Badge](https://img.shields.io/badge/-anubhavdxt46@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavdxt46@gmail.com)](mailto:anubhavdxt46@gmail.com)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)
 
 ### **Languages**
 
