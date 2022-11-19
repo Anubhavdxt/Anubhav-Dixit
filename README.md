@@ -19,19 +19,19 @@ const intro = {
     name: "Anubhav",
     tech: {
         languages: [
-            "JS", "TS" "HTML5", "CSS3", "Solidity", "Java", "Python", "Markdown"
+            JS, TS, HTML5, CSS3, Solidity, Java, Python, Markdown
         ],
         libraryNFramework: [
-            "React", "SCSS", "Tailwind" "Bootstrap", "Redux", "NodeJS", "NPM", "Express"
+            React, SCSS, Tailwind Bootstrap, Redux, NodeJS, NPM, Express
         ],
         databases: [
-            "MongoDB", "MySQL", "PostgreSQL"
+            MongoDB, MySQL, PostgreSQL
         ]
         tools: [
-            "Git", "Postman", "Figma", "VS Code", "GitHub", "Vercel", "Netlify" , "Bitbucket", "Jira"
+            Git, Postman, Figma, VS Code, GitHub, Vercel, Netlify , Bitbucket, Jira
         ],
         platforms: [
-            "Windows", "Mac OS", "Ubuntu", "Chrome",
+            Windows, Mac OS, Ubuntu, Chrome,
         ]
     },
 };
