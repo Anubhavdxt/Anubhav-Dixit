@@ -52,6 +52,8 @@ const intro = {
 <img src="https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=tokyonight" alt="Github Stats" width="450px" />
 </p>
 
+[![Anubhavdxt's Holopin Board](https://holopin.me/anubhavdxt)](https://holopin.io/@anubhavdxt)
+
 <!--
 
 - 🔭 I’m currently working on ...
