@@ -19,7 +19,7 @@ const intro = {
     name: 'Anubhav',
     tech: {
         languages: [
-            'JavaScript', TypeScript, HTML5, CSS3, Solidity, Java, Python, Markdown,
+            JavaScript, TypeScript, HTML5, CSS3, Solidity, Java, Python, Markdown,
         ],
         frameworks: [
             React, SCSS, Tailwind, Bootstrap, Redux, NodeJS, npm, Express,
