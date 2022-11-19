@@ -14,7 +14,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-anubhavdxtdev-E91299?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavdxtdev/)](https://instagram.com/anubhavdxtdev)
 [![Gmail Badge](https://img.shields.io/badge/-anubhavdxt46@gmail.com-3E9F59?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavdxt46@gmail.com)](mailto:anubhavdxt46@gmail.com)
 
-```java
+```javascript
 const intro = {
     name: 'Anubhav',
     tech: {
