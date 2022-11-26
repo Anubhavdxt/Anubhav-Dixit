@@ -1,6 +1,6 @@
 # Hola 👋, I'm Anubhav
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2962FFEC&multiline=true&width=435&height=35&lines=Front-end%2C+Web3+%26+JS+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2962FFEC&multiline=true&width=435&height=35&lines=Front-end%2C+Web3+%26+JS+Developer+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 [![wakatime](https://wakatime.com/badge/user/4c2256db-e11a-4880-8830-da986e4c73e6.svg)](https://wakatime.com/@4c2256db-e11a-4880-8830-da986e4c73e6)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)
