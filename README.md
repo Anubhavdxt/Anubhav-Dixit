@@ -1,16 +1,12 @@
 # Hola 👋, I'm Anubhav
 
-## Full Stack Developer @ Aviz Networks
+**Full Stack Developer @ [Aviz Networks](https://aviznetworks.com)**
 
-[![wakatime](https://wakatime.com/badge/user/4c2256db-e11a-4880-8830-da986e4c73e6.svg)](https://wakatime.com/@4c2256db-e11a-4880-8830-da986e4c73e6)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anubhavdxt.Anubhavdxt)  
 ### Connect with me here
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/anubhavdxt?style=flat-square)](https://peerlist.io/anubhavdxt)
 [![Linkedin Badge](https://img.shields.io/badge/-anubhavdxt-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://www.linkedin.com/in/anubhavdxt/)
-[![Twitter Badge](https://img.shields.io/badge/-anubhavdxtdev-188CD8?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://twitter.com/Anubhavdxtdev/)
 [![Hashnode Badge](https://img.shields.io/badge/-@anubhavdxt-2962ff?style=flat-square&logo=Hashnode&logoColor=white&link=https://anubhavdxt.hashnode.dev/)](https://anubhavdxt.hashnode.dev/)
-[![Instagram Badge](https://img.shields.io/badge/-anubhavdxtdev-E91299?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/anubhavdxtdev/)](https://instagram.com/anubhavdxtdev)
-[![Gmail Badge](https://img.shields.io/badge/-anubhavdxt46-3E9F59?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavdxt46@gmail.com)](mailto:anubhavdxt46@gmail.com)
 
 ```javascript
 const intro = {
